@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@800&display=swap');
+
+body{
+  font-family: 'Quicksand', sans-serif;
+}
+cd Desktop
+*{
+  margin: 0;
+  padding: 0;
+}
+
+input,select,textarea,button{
+  outline: 0 !important;
+}
+
+li,a{
+  list-style: none;
+  text-decoration: none;
+  display: inline-block;
+}
